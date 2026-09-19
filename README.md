@@ -24,7 +24,7 @@ const praseet = {
 ```
 
 ## GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Praseet&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Praseet)](https://github.com/stats-organization/github-stats-extended)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praseet&layout=compact)
