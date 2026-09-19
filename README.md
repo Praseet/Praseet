@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![snake](https://raw.githubusercontent.com/Praseet/Praseet/output/snake.svg)
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=Praseet)
