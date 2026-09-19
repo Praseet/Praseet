@@ -47,7 +47,5 @@ Let's connect:
 
 Thanks for stopping by and happy coding! 🚀🎉
 
-![Visitor Count](https://profile-counter.glitch.me/Praseet/count.svg)
-
 
 
