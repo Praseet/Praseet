@@ -27,10 +27,10 @@ const praseet = {
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Praseet)](https://github.com/stats-organization/github-stats-extended)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praseet&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Praseet&layout=donut&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Praseet&layout=donut&langs_count=5&theme=dark_github)
 
 ## Trophy Case
-[![trophy](https://github-profile-trophy.vercel.app/?username=Praseet)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Praseet&repo=Praseet%2FPerceptron&show_owner=true&description_lines_count=1&theme=dark_github_repocard)](https://github.com/Praseet/Perceptron)
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Praseet)](https://git.io/streak-stats)
