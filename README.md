@@ -24,7 +24,7 @@ const praseet = {
 ```
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Praseet)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Praseet&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Praseet&rank_icon=percentile&hide_title=true&include_all_commits=true&theme=dark_github)
 
 ## Top Languages
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Praseet&layout=donut&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Praseet&layout=donut&langs_count=5&theme=dark_github)
@@ -32,8 +32,6 @@ const praseet = {
 ## Trophy Case
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Praseet&repo=Praseet%2FPerceptron&show_owner=true&description_lines_count=1&theme=dark_github_repocard)](https://github.com/Praseet/Perceptron)
 
-## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Praseet)](https://git.io/streak-stats)
 
 ## Skills & Interests
 - 🌐 Web Development Enthusiast
